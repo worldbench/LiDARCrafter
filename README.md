@@ -59,8 +59,10 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 ## Updates
-- **[10/2025]** - We will soon start organizing the code. All pretrained weights for evaluation can be found at [Hugging Face](https://huggingface.co/LiDARCrafter/LiDARCrafter/tree/main).
-- **[08/2025]** - The [technical report](https://arxiv.org/abs/2508.03692) of **LiDARCrafter** is available on arXiv.
+- **[11.2025]** - **LiDARCrafter** has been accepted to [**AAAI 2026**](https://aaai.org/conference/aaai/aaai-26/) for **Oral Presentation**. :tada:
+- **[10.2025]** - We will soon start organizing the code. All pretrained weights for evaluation can be found at [Hugging Face](https://huggingface.co/LiDARCrafter/LiDARCrafter/tree/main).
+- **[08.2025]** - The [technical report](https://arxiv.org/abs/2508.03692) of **LiDARCrafter** is available on arXiv.
+
 ## Outline
 - [Updates](#updates)
 - [Outline](#outline)
