@@ -45,15 +45,16 @@ In this work, we introduce **LiDARCrafter**, a unified framework for 4D LiDAR ge
 - We propose a **comprehensive evaluation suite** for LiDAR sequence generation, encompassing scene-level, object-level, and sequence-level metrics.
 - We demonstrate **best single-frame and sequence-level LiDAR point cloud generation performance** on nuScenes, with improved foreground quality over existing methods.
 
-:books: Citation
+### :books: Citation
 If you find this work helpful for your research, please kindly consider citing our paper:
 
 ```bibtex
-@article{liang2025lidarcrafter,
-    title   = {LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences},
-    author  = {Ao Liang and Youquan Liu and Yu Yang and Dongyue Lu and Linfeng Li and Lingdong Kong and Huaici Zhao and Wei Tsang Ooi},
-    journal = {arXiv preprint arXiv:2508.03692},
-    year    = {2025},
+@inproceedings{liang2026lidarcrafter,
+    title     = {{LiDARCrafter}: Dynamic {4D} World Modeling from {LiDAR} Sequences},
+    author    = {Ao Liang and Youquan Liu and Yu Yang and Dongyue Lu and Linfeng Li and Lingdong Kong and Huaici Zhao and Wei Tsang Ooi},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+    volume    = {40},
+    year      = {2026},
 }
 ```
 
